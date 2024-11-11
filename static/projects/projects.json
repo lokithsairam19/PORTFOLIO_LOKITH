@@ -1,0 +1,102 @@
+{
+  "projects": [
+    {
+      "name": "E-commerce",
+      "link": "project-1",
+      "date": "01/02/2024",
+      "short": "A short description of the project ...",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-1/img.jpg"
+      ]
+    },
+    
+    {
+      "name": "Banking System",
+      "link": "project-2",
+      "date": "04/05/202024",
+      "short": "A short description of the project ...",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-2/img.jpg"
+      ]
+    },
+
+    {
+      "name": "Auction",
+      "link": "project-3",
+      "date": "04/05/2024",
+      "short": "A short description of the project ...",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-3/img.jpg"
+      ]
+    },
+    
+    {
+      "name": "Event Management",
+      "link": "project-4",
+      "date": "04/05/202024",
+      "short": "A short description of the project ...",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-4/img.jpg"
+      ]
+    },
+
+    {
+      "name": "Library Management",
+      "link": "project-5",
+      "date": "04/05/202024",
+      "short": "A short description of the project ...",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-5/img.jpg"
+      ]
+    },
+
+    {
+      "name": "Student Management",
+      "link": "project-6",
+      "date": "04/05/202024",
+      "short": "A short description of the project ...",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-6/img.jpg"
+      ]
+    },
+
+    {
+      "name": "Hospital Management",
+      "link": "project-7",
+      "date": "04/05/202024",
+      "short": "A short description of the project ...",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-7/img.jpg"
+      ]
+    }
+  ]
+}

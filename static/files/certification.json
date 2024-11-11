@@ -1,0 +1,24 @@
+[
+  {
+    "year": "Python",
+    "books": [
+      {
+        "name": "'Crash Course on python'",
+        "review": "by coursera(April-2023)"
+      },
+      {
+        "name": "The Complete Python Developer",
+        "review": "by udemy(July-2024)"
+      }
+    ]
+  },
+  {
+    "year": "Traning",
+    "books": [
+      {
+        "name": "Fullstack with python",
+        "review": "Besant technologies, Chennai(July-2024)"
+      }
+    ]
+  }
+]

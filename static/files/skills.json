@@ -1,0 +1,19 @@
+[
+    {
+      "year": "Python Fullstack Developer",
+      "events": [
+        {
+          "title": "Back-end",
+          "content":"Python, Django"  
+        },
+        {
+            "title": "Front-end",
+            "content":"JavaScript, React, CSS, Bootstrap, HTML"  
+        },
+        {
+            "title": "Database",
+            "content":"MySQL, Oracle"  
+        }
+      ]
+    }
+  ]

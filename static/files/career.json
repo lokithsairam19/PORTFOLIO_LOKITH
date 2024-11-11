@@ -1,0 +1,17 @@
+[
+  {
+    "year": "Training",
+    "events": [
+      {
+        "icon": "",
+        "title": "Besant Technologies",
+        "content": "Python Fullstack Developer (july-2024)"
+      },
+      {
+        "icon": "work",
+        "title": "Technospace i Solutions",
+        "content":"Application Support Engineer (April-2024)"  
+      }
+    ]
+  }
+]
